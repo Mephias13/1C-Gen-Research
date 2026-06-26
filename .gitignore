@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Bundled BSL LS + JRE binaries (~484MB third-party) — obtain per README, not in git
+tools/
+
+# Exported / merged models (multi-GB)
+gguf_bsl/
+gguf_bsl_gguf/
+outputs/
+lora_bsl/
+
+# Generated caches, gate reports, logs
+data/fewshot_index.json
+data/pairs.jsonl
+gate_test/
+*.log
+
+# local infra / host-specific notes — not for the repo
+WSL_NETWORK_CHANGES.md
