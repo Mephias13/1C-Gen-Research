@@ -1,0 +1,1250 @@
+{
+  "number_of_samples": 147,
+  "success_rate": 0.0,
+  "compile_rate": 0.05442176870748299,
+  "compile_succeeded_ids": [
+    "task_020",
+    "task_023",
+    "task_025",
+    "task_028",
+    "task_029",
+    "task_032",
+    "task_042",
+    "task_054"
+  ],
+  "compile_failed_ids": [
+    "task_001",
+    "task_002",
+    "task_003",
+    "task_004",
+    "task_005",
+    "task_006",
+    "task_007",
+    "task_008",
+    "task_009",
+    "task_010",
+    "task_011",
+    "task_012",
+    "task_013",
+    "task_014",
+    "task_015",
+    "task_016",
+    "task_017",
+    "task_018",
+    "task_019",
+    "task_021",
+    "task_022",
+    "task_024",
+    "task_026",
+    "task_027",
+    "task_030",
+    "task_031",
+    "task_033",
+    "task_034",
+    "task_035",
+    "task_036",
+    "task_037",
+    "task_038",
+    "task_039",
+    "task_040",
+    "task_041",
+    "task_043",
+    "task_044",
+    "task_045",
+    "task_046",
+    "task_047",
+    "task_048",
+    "task_049",
+    "task_050",
+    "task_051",
+    "task_052",
+    "task_053",
+    "task_055",
+    "task_056",
+    "task_057",
+    "task_058",
+    "task_059",
+    "task_060",
+    "task_061",
+    "task_062",
+    "task_063",
+    "task_064",
+    "task_065",
+    "task_066",
+    "task_067",
+    "task_068",
+    "task_069",
+    "task_070",
+    "task_071",
+    "task_072",
+    "task_073",
+    "task_074",
+    "task_075",
+    "task_076",
+    "task_077",
+    "task_078",
+    "task_079",
+    "task_080",
+    "task_081",
+    "task_082",
+    "task_083",
+    "task_084",
+    "task_085",
+    "task_086",
+    "task_087",
+    "task_088",
+    "task_089",
+    "task_090",
+    "task_091",
+    "task_092",
+    "task_093",
+    "task_094",
+    "task_095",
+    "task_096",
+    "task_097",
+    "task_098",
+    "task_099",
+    "task_100",
+    "task_101",
+    "task_102",
+    "task_103",
+    "task_104",
+    "task_105",
+    "task_106",
+    "task_107",
+    "task_108",
+    "task_109",
+    "task_110",
+    "task_111",
+    "task_112",
+    "task_113",
+    "task_114",
+    "task_115",
+    "task_116",
+    "task_117",
+    "task_118",
+    "task_119",
+    "task_120",
+    "task_121",
+    "task_122",
+    "task_123",
+    "task_124",
+    "task_125",
+    "task_126",
+    "task_127",
+    "task_128",
+    "task_129",
+    "task_130",
+    "task_131",
+    "task_132",
+    "task_133",
+    "task_134",
+    "task_135",
+    "task_136",
+    "task_137",
+    "task_138",
+    "task_139",
+    "task_140",
+    "task_141",
+    "task_142",
+    "task_143",
+    "task_144",
+    "task_145",
+    "task_146",
+    "task_147"
+  ],
+  "success_succeeded_ids": [],
+  "success_failed_ids": [
+    "task_001",
+    "task_002",
+    "task_003",
+    "task_004",
+    "task_005",
+    "task_006",
+    "task_007",
+    "task_008",
+    "task_009",
+    "task_010",
+    "task_011",
+    "task_012",
+    "task_013",
+    "task_014",
+    "task_015",
+    "task_016",
+    "task_017",
+    "task_018",
+    "task_019",
+    "task_020",
+    "task_021",
+    "task_022",
+    "task_023",
+    "task_024",
+    "task_025",
+    "task_026",
+    "task_027",
+    "task_028",
+    "task_029",
+    "task_030",
+    "task_031",
+    "task_032",
+    "task_033",
+    "task_034",
+    "task_035",
+    "task_036",
+    "task_037",
+    "task_038",
+    "task_039",
+    "task_040",
+    "task_041",
+    "task_042",
+    "task_043",
+    "task_044",
+    "task_045",
+    "task_046",
+    "task_047",
+    "task_048",
+    "task_049",
+    "task_050",
+    "task_051",
+    "task_052",
+    "task_053",
+    "task_054",
+    "task_055",
+    "task_056",
+    "task_057",
+    "task_058",
+    "task_059",
+    "task_060",
+    "task_061",
+    "task_062",
+    "task_063",
+    "task_064",
+    "task_065",
+    "task_066",
+    "task_067",
+    "task_068",
+    "task_069",
+    "task_070",
+    "task_071",
+    "task_072",
+    "task_073",
+    "task_074",
+    "task_075",
+    "task_076",
+    "task_077",
+    "task_078",
+    "task_079",
+    "task_080",
+    "task_081",
+    "task_082",
+    "task_083",
+    "task_084",
+    "task_085",
+    "task_086",
+    "task_087",
+    "task_088",
+    "task_089",
+    "task_090",
+    "task_091",
+    "task_092",
+    "task_093",
+    "task_094",
+    "task_095",
+    "task_096",
+    "task_097",
+    "task_098",
+    "task_099",
+    "task_100",
+    "task_101",
+    "task_102",
+    "task_103",
+    "task_104",
+    "task_105",
+    "task_106",
+    "task_107",
+    "task_108",
+    "task_109",
+    "task_110",
+    "task_111",
+    "task_112",
+    "task_113",
+    "task_114",
+    "task_115",
+    "task_116",
+    "task_117",
+    "task_118",
+    "task_119",
+    "task_120",
+    "task_121",
+    "task_122",
+    "task_123",
+    "task_124",
+    "task_125",
+    "task_126",
+    "task_127",
+    "task_128",
+    "task_129",
+    "task_130",
+    "task_131",
+    "task_132",
+    "task_133",
+    "task_134",
+    "task_135",
+    "task_136",
+    "task_137",
+    "task_138",
+    "task_139",
+    "task_140",
+    "task_141",
+    "task_142",
+    "task_143",
+    "task_144",
+    "task_145",
+    "task_146",
+    "task_147"
+  ],
+  "parse_errors": [
+    {
+      "row": 8,
+      "task_id": "task_009",
+      "error": "Function 'ПросроченныеДолги' not found in patch"
+    },
+    {
+      "row": 11,
+      "task_id": "task_012",
+      "error": "Function 'ЗаменитьНоменклатура' not found in module_text"
+    },
+    {
+      "row": 20,
+      "task_id": "task_021",
+      "error": "Function 'ЗаполнитьТабличнуюЧастьЗаказаЦенами' not found in module_text"
+    },
+    {
+      "row": 23,
+      "task_id": "task_024",
+      "error": "Function 'ЗагрузитьПрайсЛистИзCSV' not found in patch"
+    },
+    {
+      "row": 33,
+      "task_id": "task_034",
+      "error": "Function 'ПолучитьТаблицуЗаказовПоКурсуВалют' not found in patch"
+    },
+    {
+      "row": 35,
+      "task_id": "task_036",
+      "error": "Function 'ПолучитьТаблицуНепрочитанныхПисемКонтрагентов' not found in patch"
+    },
+    {
+      "row": 36,
+      "task_id": "task_037",
+      "error": "Function name could not be extracted from code"
+    },
+    {
+      "row": 40,
+      "task_id": "task_041",
+      "error": "Function 'ПроверкаЛимитаЗадолженности' not found in patch"
+    },
+    {
+      "row": 42,
+      "task_id": "task_043",
+      "error": "Function 'ПолучитьТаблицуАнализаПродаж' not found in patch"
+    },
+    {
+      "row": 44,
+      "task_id": "task_045",
+      "error": "Function 'НайтиКонтрагентовПоКонтактнойИнформации' not found in patch"
+    },
+    {
+      "row": 45,
+      "task_id": "task_046",
+      "error": "Function 'ВыполнитьABCАнализПродаж' not found in patch"
+    },
+    {
+      "row": 48,
+      "task_id": "task_049",
+      "error": "Function 'СформироватьОтчетОстаткиПоНоменклатуре' not found in patch"
+    },
+    {
+      "row": 49,
+      "task_id": "task_050",
+      "error": "Function 'РассчитатьОборачиваемость' not found in patch"
+    },
+    {
+      "row": 50,
+      "task_id": "task_051",
+      "error": "Function name could not be extracted from code"
+    },
+    {
+      "row": 52,
+      "task_id": "task_053",
+      "error": "Function name could not be extracted from code"
+    },
+    {
+      "row": 54,
+      "task_id": "task_055",
+      "error": "Function name could not be extracted from code"
+    },
+    {
+      "row": 56,
+      "task_id": "task_057",
+      "error": "Function name could not be extracted from code"
+    },
+    {
+      "row": 59,
+      "task_id": "task_060",
+      "error": "Function name could not be extracted from code"
+    },
+    {
+      "row": 65,
+      "task_id": "task_066",
+      "error": "Function 'Тест' not found in module_text"
+    },
+    {
+      "row": 67,
+      "task_id": "task_068",
+      "error": "Function name could not be extracted from code"
+    },
+    {
+      "row": 68,
+      "task_id": "task_069",
+      "error": "Function name could not be extracted from code"
+    },
+    {
+      "row": 69,
+      "task_id": "task_070",
+      "error": "Function name could not be extracted from code"
+    },
+    {
+      "row": 70,
+      "task_id": "task_071",
+      "error": "Function 'СформироватьСебестоимостьТоваровСредневзвеш' not found in patch"
+    },
+    {
+      "row": 71,
+      "task_id": "task_072",
+      "error": "Function name could not be extracted from code"
+    },
+    {
+      "row": 80,
+      "task_id": "task_081",
+      "error": "Function 'ПроверкаКорректностиЗаполненияНоменклатуры' not found in patch"
+    },
+    {
+      "row": 81,
+      "task_id": "task_082",
+      "error": "Function 'СформироватьОтчетВзаимосвязьПродажТоваровВариантТаблица' not found in module_text"
+    },
+    {
+      "row": 82,
+      "task_id": "task_083",
+      "error": "Function name could not be extracted from code"
+    },
+    {
+      "row": 83,
+      "task_id": "task_084",
+      "error": "Function name could not be extracted from code"
+    },
+    {
+      "row": 92,
+      "task_id": "task_093",
+      "error": "Function name could not be extracted from code"
+    },
+    {
+      "row": 102,
+      "task_id": "task_103",
+      "error": "Function 'ДобавитьГруппировкуВКореньСтруктуры' not found in patch"
+    },
+    {
+      "row": 112,
+      "task_id": "task_113",
+      "error": "Function name could not be extracted from code"
+    },
+    {
+      "row": 115,
+      "task_id": "task_116",
+      "error": "Function name could not be extracted from code"
+    },
+    {
+      "row": 122,
+      "task_id": "task_123",
+      "error": "Function 'СформироватьМаржинальностьПродаж' not found in patch"
+    },
+    {
+      "row": 128,
+      "task_id": "task_129",
+      "error": "Function 'СформироватьИсториюИзмененияЦен' not found in patch"
+    },
+    {
+      "row": 130,
+      "task_id": "task_131",
+      "error": "Function name could not be extracted from code"
+    },
+    {
+      "row": 131,
+      "task_id": "task_132",
+      "error": "Function 'ПроверитьЗаполнениеРеквизитов' not found in module_text"
+    },
+    {
+      "row": 132,
+      "task_id": "task_133",
+      "error": "Function 'СформироватьПересортицу' not found in patch"
+    },
+    {
+      "row": 135,
+      "task_id": "task_136",
+      "error": "Function 'НайтиПолеВСтруктуреКД' not found in module_text"
+    },
+    {
+      "row": 136,
+      "task_id": "task_137",
+      "error": "Function 'СформироватьАнализПокупателейПоРегионам' not found in patch"
+    },
+    {
+      "row": 138,
+      "task_id": "task_139",
+      "error": "Function 'СформироватьИсториюДвиженияТовара' not found in patch"
+    },
+    {
+      "row": 139,
+      "task_id": "task_140",
+      "error": "Function 'СформироватьXYZАнализПродаж' not found in patch"
+    }
+  ],
+  "task_results": [
+    {
+      "task_id": "task_001",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.SampleProcessor.МодульОбъекта"
+    },
+    {
+      "task_id": "task_002",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.SampleProcessor.МодульОбъекта"
+    },
+    {
+      "task_id": "task_003",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.SampleProcessor.МодульОбъекта"
+    },
+    {
+      "task_id": "task_004",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.SampleProcessor.МодульОбъекта"
+    },
+    {
+      "task_id": "task_005",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.SampleProcessor.МодульОбъекта"
+    },
+    {
+      "task_id": "task_006",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.SampleProcessor.МодульОбъекта"
+    },
+    {
+      "task_id": "task_007",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.SampleProcessor.МодульОбъекта"
+    },
+    {
+      "task_id": "task_008",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.SampleProcessor.МодульОбъекта"
+    },
+    {
+      "task_id": "task_009",
+      "status": "error",
+      "error": "Function 'ПросроченныеДолги' not found in patch"
+    },
+    {
+      "task_id": "task_010",
+      "status": "error",
+      "error": "Поле объекта не обнаружено (Содержимое)"
+    },
+    {
+      "task_id": "task_011",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.SampleProcessor.МодульОбъекта"
+    },
+    {
+      "task_id": "task_012",
+      "status": "error",
+      "error": "Function 'ЗаменитьНоменклатура' not found in module_text"
+    },
+    {
+      "task_id": "task_013",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.SampleProcessor.МодульОбъекта"
+    },
+    {
+      "task_id": "task_014",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.SampleProcessor.МодульОбъекта"
+    },
+    {
+      "task_id": "task_015",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.SampleProcessor.МодульОбъекта"
+    },
+    {
+      "task_id": "task_016",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.SampleProcessor.МодульОбъекта"
+    },
+    {
+      "task_id": "task_017",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.SampleProcessor.МодульОбъекта"
+    },
+    {
+      "task_id": "task_018",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.SampleProcessor.МодульОбъекта"
+    },
+    {
+      "task_id": "task_019",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.SampleProcessor.МодульОбъекта"
+    },
+    {
+      "task_id": "task_020",
+      "status": "compiled",
+      "error": ""
+    },
+    {
+      "task_id": "task_021",
+      "status": "error",
+      "error": "Function 'ЗаполнитьТабличнуюЧастьЗаказаЦенами' not found in module_text"
+    },
+    {
+      "task_id": "task_022",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.ПолучитьСреднююЦенуПоНоменклатуре.МодульОбъекта"
+    },
+    {
+      "task_id": "task_023",
+      "status": "compiled",
+      "error": ""
+    },
+    {
+      "task_id": "task_024",
+      "status": "error",
+      "error": "Function 'ЗагрузитьПрайсЛистИзCSV' not found in patch"
+    },
+    {
+      "task_id": "task_025",
+      "status": "compiled",
+      "error": ""
+    },
+    {
+      "task_id": "task_026",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.ВыгрузитьТаблицуВCSV.МодульОбъекта"
+    },
+    {
+      "task_id": "task_027",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.СвернутьДублиВТаблице.МодульОбъекта"
+    },
+    {
+      "task_id": "task_028",
+      "status": "compiled",
+      "error": ""
+    },
+    {
+      "task_id": "task_029",
+      "status": "compiled",
+      "error": ""
+    },
+    {
+      "task_id": "task_030",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.НайтиГруппировкуПоИмени.МодульОбъекта"
+    },
+    {
+      "task_id": "task_031",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.ЗначенияРеквизитовОбъекта.МодульОбъекта"
+    },
+    {
+      "task_id": "task_032",
+      "status": "compiled",
+      "error": ""
+    },
+    {
+      "task_id": "task_033",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.СформироватьРеестрРеализаций.МодульОбъекта"
+    },
+    {
+      "task_id": "task_034",
+      "status": "error",
+      "error": "Function 'ПолучитьТаблицуЗаказовПоКурсуВалют' not found in patch"
+    },
+    {
+      "task_id": "task_035",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.СформироватьОтчетЗадолженностьКонтрагентов.МодульОбъекта"
+    },
+    {
+      "task_id": "task_036",
+      "status": "error",
+      "error": "Function 'ПолучитьТаблицуНепрочитанныхПисемКонтрагентов' not found in patch"
+    },
+    {
+      "task_id": "task_037",
+      "status": "error",
+      "error": "Function name could not be extracted from code"
+    },
+    {
+      "task_id": "task_038",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.SampleProcessor.МодульОбъекта"
+    },
+    {
+      "task_id": "task_039",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.SampleProcessor.МодульОбъекта"
+    },
+    {
+      "task_id": "task_040",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.SampleProcessor.МодульОбъекта"
+    },
+    {
+      "task_id": "task_041",
+      "status": "error",
+      "error": "Function 'ПроверкаЛимитаЗадолженности' not found in patch"
+    },
+    {
+      "task_id": "task_042",
+      "status": "compiled",
+      "error": ""
+    },
+    {
+      "task_id": "task_043",
+      "status": "error",
+      "error": "Function 'ПолучитьТаблицуАнализаПродаж' not found in patch"
+    },
+    {
+      "task_id": "task_044",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.ЗаполнитьТабличныйДокументЦеныНаДату.МодульОбъекта"
+    },
+    {
+      "task_id": "task_045",
+      "status": "error",
+      "error": "Function 'НайтиКонтрагентовПоКонтактнойИнформации' not found in patch"
+    },
+    {
+      "task_id": "task_046",
+      "status": "error",
+      "error": "Function 'ВыполнитьABCАнализПродаж' not found in patch"
+    },
+    {
+      "task_id": "task_047",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.ВыгрузитьЗадолженностьВJson.МодульОбъекта"
+    },
+    {
+      "task_id": "task_048",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.ПериодыУстановленныхКурсовВалют.МодульОбъекта"
+    },
+    {
+      "task_id": "task_049",
+      "status": "error",
+      "error": "Function 'СформироватьОтчетОстаткиПоНоменклатуре' not found in patch"
+    },
+    {
+      "task_id": "task_050",
+      "status": "error",
+      "error": "Function 'РассчитатьОборачиваемость' not found in patch"
+    },
+    {
+      "task_id": "task_051",
+      "status": "error",
+      "error": "Function name could not be extracted from code"
+    },
+    {
+      "task_id": "task_052",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.СформироватьОтчетСуммаИКоличествоПродажТовараВТаблице.МодульОбъекта"
+    },
+    {
+      "task_id": "task_053",
+      "status": "error",
+      "error": "Function name could not be extracted from code"
+    },
+    {
+      "task_id": "task_054",
+      "status": "compiled",
+      "error": ""
+    },
+    {
+      "task_id": "task_055",
+      "status": "error",
+      "error": "Function name could not be extracted from code"
+    },
+    {
+      "task_id": "task_056",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.СформироватьОтчетДниПродажВышеНормы.МодульОбъекта"
+    },
+    {
+      "task_id": "task_057",
+      "status": "error",
+      "error": "Function name could not be extracted from code"
+    },
+    {
+      "task_id": "task_058",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.СформироватьОтчетПродажиПоПокупателям.МодульОбъекта"
+    },
+    {
+      "task_id": "task_059",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.СформироватьОтчетПоОплатамПоставшика.МодульОбъекта"
+    },
+    {
+      "task_id": "task_060",
+      "status": "error",
+      "error": "Function name could not be extracted from code"
+    },
+    {
+      "task_id": "task_061",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.СформироватьОтчетПоОплатамСГруппировкойПоПоставщикам.МодульОбъекта"
+    },
+    {
+      "task_id": "task_062",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.ОтчетПоэффективностиПродажСклада.МодульОбъекта"
+    },
+    {
+      "task_id": "task_063",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.СформироватьОтчетПоНеПроведеннымОплатамПоставщиков.МодульОбъекта"
+    },
+    {
+      "task_id": "task_064",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.СформироватьОтчетТоварыБезЦены.МодульОбъекта"
+    },
+    {
+      "task_id": "task_065",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.СформироватьРеестрПродажГруппПоПокупателям.МодульОбъекта"
+    },
+    {
+      "task_id": "task_066",
+      "status": "error",
+      "error": "Function 'Тест' not found in module_text"
+    },
+    {
+      "task_id": "task_067",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.СреднийЧекПродаж.МодульОбъекта"
+    },
+    {
+      "task_id": "task_068",
+      "status": "error",
+      "error": "Function name could not be extracted from code"
+    },
+    {
+      "task_id": "task_069",
+      "status": "error",
+      "error": "Function name could not be extracted from code"
+    },
+    {
+      "task_id": "task_070",
+      "status": "error",
+      "error": "Function name could not be extracted from code"
+    },
+    {
+      "task_id": "task_071",
+      "status": "error",
+      "error": "Function 'СформироватьСебестоимостьТоваровСредневзвеш' not found in patch"
+    },
+    {
+      "task_id": "task_072",
+      "status": "error",
+      "error": "Function name could not be extracted from code"
+    },
+    {
+      "task_id": "task_073",
+      "status": "error",
+      "error": "mcp transport: Remote end closed connection without response"
+    },
+    {
+      "task_id": "task_074",
+      "status": "error",
+      "error": "mcp transport: Remote end closed connection without response"
+    },
+    {
+      "task_id": "task_075",
+      "status": "error",
+      "error": "mcp transport: Remote end closed connection without response"
+    },
+    {
+      "task_id": "task_076",
+      "status": "error",
+      "error": "mcp transport: Remote end closed connection without response"
+    },
+    {
+      "task_id": "task_077",
+      "status": "error",
+      "error": "mcp transport: Remote end closed connection without response"
+    },
+    {
+      "task_id": "task_078",
+      "status": "error",
+      "error": "mcp transport: Remote end closed connection without response"
+    },
+    {
+      "task_id": "task_079",
+      "status": "error",
+      "error": "mcp transport: Remote end closed connection without response"
+    },
+    {
+      "task_id": "task_080",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_081",
+      "status": "error",
+      "error": "Function 'ПроверкаКорректностиЗаполненияНоменклатуры' not found in patch"
+    },
+    {
+      "task_id": "task_082",
+      "status": "error",
+      "error": "Function 'СформироватьОтчетВзаимосвязьПродажТоваровВариантТаблица' not found in module_text"
+    },
+    {
+      "task_id": "task_083",
+      "status": "error",
+      "error": "Function name could not be extracted from code"
+    },
+    {
+      "task_id": "task_084",
+      "status": "error",
+      "error": "Function name could not be extracted from code"
+    },
+    {
+      "task_id": "task_085",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_086",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_087",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_088",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_089",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_090",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_091",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_092",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_093",
+      "status": "error",
+      "error": "Function name could not be extracted from code"
+    },
+    {
+      "task_id": "task_094",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_095",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_096",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_097",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_098",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_099",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_100",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_101",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_102",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_103",
+      "status": "error",
+      "error": "Function 'ДобавитьГруппировкуВКореньСтруктуры' not found in patch"
+    },
+    {
+      "task_id": "task_104",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_105",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_106",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_107",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_108",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_109",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_110",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_111",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_112",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_113",
+      "status": "error",
+      "error": "Function name could not be extracted from code"
+    },
+    {
+      "task_id": "task_114",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_115",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_116",
+      "status": "error",
+      "error": "Function name could not be extracted from code"
+    },
+    {
+      "task_id": "task_117",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_118",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_119",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_120",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_121",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_122",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_123",
+      "status": "error",
+      "error": "Function 'СформироватьМаржинальностьПродаж' not found in patch"
+    },
+    {
+      "task_id": "task_124",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_125",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_126",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_127",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_128",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_129",
+      "status": "error",
+      "error": "Function 'СформироватьИсториюИзмененияЦен' not found in patch"
+    },
+    {
+      "task_id": "task_130",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_131",
+      "status": "error",
+      "error": "Function name could not be extracted from code"
+    },
+    {
+      "task_id": "task_132",
+      "status": "error",
+      "error": "Function 'ПроверитьЗаполнениеРеквизитов' not found in module_text"
+    },
+    {
+      "task_id": "task_133",
+      "status": "error",
+      "error": "Function 'СформироватьПересортицу' not found in patch"
+    },
+    {
+      "task_id": "task_134",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_135",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_136",
+      "status": "error",
+      "error": "Function 'НайтиПолеВСтруктуреКД' not found in module_text"
+    },
+    {
+      "task_id": "task_137",
+      "status": "error",
+      "error": "Function 'СформироватьАнализПокупателейПоРегионам' not found in patch"
+    },
+    {
+      "task_id": "task_138",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_139",
+      "status": "error",
+      "error": "Function 'СформироватьИсториюДвиженияТовара' not found in patch"
+    },
+    {
+      "task_id": "task_140",
+      "status": "error",
+      "error": "Function 'СформироватьXYZАнализПродаж' not found in patch"
+    },
+    {
+      "task_id": "task_141",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_142",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_143",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_144",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_145",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_146",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    },
+    {
+      "task_id": "task_147",
+      "status": "error",
+      "error": "mcp transport: <urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>"
+    }
+  ]
+}

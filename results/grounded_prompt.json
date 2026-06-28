@@ -1,0 +1,246 @@
+{
+  "number_of_samples": 30,
+  "success_rate": 0.0,
+  "compile_rate": 0.1,
+  "compile_succeeded_ids": [
+    "task_023",
+    "task_025",
+    "task_028"
+  ],
+  "compile_failed_ids": [
+    "task_001",
+    "task_002",
+    "task_003",
+    "task_004",
+    "task_005",
+    "task_006",
+    "task_007",
+    "task_008",
+    "task_009",
+    "task_010",
+    "task_011",
+    "task_012",
+    "task_013",
+    "task_014",
+    "task_015",
+    "task_016",
+    "task_017",
+    "task_018",
+    "task_019",
+    "task_020",
+    "task_021",
+    "task_022",
+    "task_024",
+    "task_026",
+    "task_027",
+    "task_029",
+    "task_030"
+  ],
+  "success_succeeded_ids": [],
+  "success_failed_ids": [
+    "task_001",
+    "task_002",
+    "task_003",
+    "task_004",
+    "task_005",
+    "task_006",
+    "task_007",
+    "task_008",
+    "task_009",
+    "task_010",
+    "task_011",
+    "task_012",
+    "task_013",
+    "task_014",
+    "task_015",
+    "task_016",
+    "task_017",
+    "task_018",
+    "task_019",
+    "task_020",
+    "task_021",
+    "task_022",
+    "task_023",
+    "task_024",
+    "task_025",
+    "task_026",
+    "task_027",
+    "task_028",
+    "task_029",
+    "task_030"
+  ],
+  "parse_errors": [
+    {
+      "row": 16,
+      "task_id": "task_017",
+      "error": "Function name could not be extracted from code"
+    },
+    {
+      "row": 17,
+      "task_id": "task_018",
+      "error": "Function name could not be extracted from code"
+    },
+    {
+      "row": 20,
+      "task_id": "task_021",
+      "error": "Function 'ЗаполнитьТабличнуюЧастьЗаказаЦенами' not found in module_text"
+    },
+    {
+      "row": 23,
+      "task_id": "task_024",
+      "error": "Function 'ЗагрузитьПрайсЛистИзCSV' not found in patch"
+    }
+  ],
+  "task_results": [
+    {
+      "task_id": "task_001",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.SampleProcessor.МодульОбъекта"
+    },
+    {
+      "task_id": "task_002",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.SampleProcessor.МодульОбъекта"
+    },
+    {
+      "task_id": "task_003",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.SampleProcessor.МодульОбъекта"
+    },
+    {
+      "task_id": "task_004",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.SampleProcessor.МодульОбъекта"
+    },
+    {
+      "task_id": "task_005",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.SampleProcessor.МодульОбъекта"
+    },
+    {
+      "task_id": "task_006",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.SampleProcessor.МодульОбъекта"
+    },
+    {
+      "task_id": "task_007",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.SampleProcessor.МодульОбъекта"
+    },
+    {
+      "task_id": "task_008",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.SampleProcessor.МодульОбъекта"
+    },
+    {
+      "task_id": "task_009",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.SampleProcessor.МодульОбъекта"
+    },
+    {
+      "task_id": "task_010",
+      "status": "error",
+      "error": "Поле объекта не обнаружено (Содержимое)"
+    },
+    {
+      "task_id": "task_011",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.SampleProcessor.МодульОбъекта"
+    },
+    {
+      "task_id": "task_012",
+      "status": "error",
+      "error": "Поле объекта не обнаружено (Запрос)"
+    },
+    {
+      "task_id": "task_013",
+      "status": "error",
+      "error": "Итератор для значения не определен"
+    },
+    {
+      "task_id": "task_014",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.SampleProcessor.МодульОбъекта"
+    },
+    {
+      "task_id": "task_015",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.SampleProcessor.МодульОбъекта"
+    },
+    {
+      "task_id": "task_016",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.SampleProcessor.МодульОбъекта"
+    },
+    {
+      "task_id": "task_017",
+      "status": "error",
+      "error": "Function name could not be extracted from code"
+    },
+    {
+      "task_id": "task_018",
+      "status": "error",
+      "error": "Function name could not be extracted from code"
+    },
+    {
+      "task_id": "task_019",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.SampleProcessor.МодульОбъекта"
+    },
+    {
+      "task_id": "task_020",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.SampleProcessor.МодульОбъекта"
+    },
+    {
+      "task_id": "task_021",
+      "status": "error",
+      "error": "Function 'ЗаполнитьТабличнуюЧастьЗаказаЦенами' not found in module_text"
+    },
+    {
+      "task_id": "task_022",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.ПолучитьСреднююЦенуПоНоменклатуре.МодульОбъекта"
+    },
+    {
+      "task_id": "task_023",
+      "status": "compiled",
+      "error": ""
+    },
+    {
+      "task_id": "task_024",
+      "status": "error",
+      "error": "Function 'ЗагрузитьПрайсЛистИзCSV' not found in patch"
+    },
+    {
+      "task_id": "task_025",
+      "status": "compiled",
+      "error": ""
+    },
+    {
+      "task_id": "task_026",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.ВыгрузитьТаблицуВCSV.МодульОбъекта"
+    },
+    {
+      "task_id": "task_027",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.СвернутьДублиВТаблице.МодульОбъекта"
+    },
+    {
+      "task_id": "task_028",
+      "status": "compiled",
+      "error": ""
+    },
+    {
+      "task_id": "task_029",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.ДобавитьХарактиристикуТовара.МодульОбъекта"
+    },
+    {
+      "task_id": "task_030",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.НайтиГруппировкуПоИмени.МодульОбъекта"
+    }
+  ]
+}

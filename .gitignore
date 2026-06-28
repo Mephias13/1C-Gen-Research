@@ -19,3 +19,9 @@ gate_test/
 
 # local infra / host-specific notes — not for the repo
 WSL_NETWORK_CHANGES.md
+
+# Claude Code internal config (personal paths, internal strategy) — local only
+CLAUDE.md
+# scratch BSL fixtures
+fs.bsl
+nofs.bsl

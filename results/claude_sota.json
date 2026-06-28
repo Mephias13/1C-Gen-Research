@@ -1,0 +1,232 @@
+{
+  "number_of_samples": 30,
+  "success_rate": 0.6,
+  "compile_rate": 0.7666666666666667,
+  "compile_succeeded_ids": [
+    "task_001",
+    "task_002",
+    "task_003",
+    "task_004",
+    "task_005",
+    "task_006",
+    "task_007",
+    "task_008",
+    "task_009",
+    "task_010",
+    "task_012",
+    "task_015",
+    "task_016",
+    "task_017",
+    "task_019",
+    "task_022",
+    "task_023",
+    "task_024",
+    "task_025",
+    "task_026",
+    "task_027",
+    "task_028",
+    "task_030"
+  ],
+  "compile_failed_ids": [
+    "task_011",
+    "task_013",
+    "task_014",
+    "task_018",
+    "task_020",
+    "task_021",
+    "task_029"
+  ],
+  "success_succeeded_ids": [
+    "task_001",
+    "task_002",
+    "task_003",
+    "task_004",
+    "task_005",
+    "task_006",
+    "task_007",
+    "task_008",
+    "task_012",
+    "task_015",
+    "task_016",
+    "task_017",
+    "task_019",
+    "task_022",
+    "task_023",
+    "task_025",
+    "task_026",
+    "task_028"
+  ],
+  "success_failed_ids": [
+    "task_009",
+    "task_010",
+    "task_011",
+    "task_013",
+    "task_014",
+    "task_018",
+    "task_020",
+    "task_021",
+    "task_024",
+    "task_027",
+    "task_029",
+    "task_030"
+  ],
+  "parse_errors": [
+    {
+      "row": 20,
+      "task_id": "task_021",
+      "error": "Function 'ЗаполнитьТабличнуюЧастьЗаказаЦенами' not found in module_text"
+    }
+  ],
+  "task_results": [
+    {
+      "task_id": "task_001",
+      "status": "success",
+      "error": ""
+    },
+    {
+      "task_id": "task_002",
+      "status": "success",
+      "error": ""
+    },
+    {
+      "task_id": "task_003",
+      "status": "success",
+      "error": ""
+    },
+    {
+      "task_id": "task_004",
+      "status": "success",
+      "error": ""
+    },
+    {
+      "task_id": "task_005",
+      "status": "success",
+      "error": ""
+    },
+    {
+      "task_id": "task_006",
+      "status": "success",
+      "error": ""
+    },
+    {
+      "task_id": "task_007",
+      "status": "success",
+      "error": ""
+    },
+    {
+      "task_id": "task_008",
+      "status": "success",
+      "error": ""
+    },
+    {
+      "task_id": "task_009",
+      "status": "compiled",
+      "error": ""
+    },
+    {
+      "task_id": "task_010",
+      "status": "compiled",
+      "error": ""
+    },
+    {
+      "task_id": "task_011",
+      "status": "error",
+      "error": "Поле объекта недоступно для записи (ВидДвижения)"
+    },
+    {
+      "task_id": "task_012",
+      "status": "success",
+      "error": ""
+    },
+    {
+      "task_id": "task_013",
+      "status": "error",
+      "error": "Значение не является значением объектного типа (Количество)"
+    },
+    {
+      "task_id": "task_014",
+      "status": "error",
+      "error": "Метод объекта не обнаружен (ПрочитатьВДвоичныеДанные)"
+    },
+    {
+      "task_id": "task_015",
+      "status": "success",
+      "error": ""
+    },
+    {
+      "task_id": "task_016",
+      "status": "success",
+      "error": ""
+    },
+    {
+      "task_id": "task_017",
+      "status": "success",
+      "error": ""
+    },
+    {
+      "task_id": "task_018",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Выполнить): {(2, 5)}: Синтаксическая ошибка \"ВЫБРАТЬ\"\n(<<?>>ВЫБРАТЬ МАКСИМУМ(Ц2.Период) ИЗ РегистрСведений.ЦеныТоваров КАК Ц2"
+    },
+    {
+      "task_id": "task_019",
+      "status": "success",
+      "error": ""
+    },
+    {
+      "task_id": "task_020",
+      "status": "error",
+      "error": "Метод объекта не обнаружен (КомпоноватьРезультат)"
+    },
+    {
+      "task_id": "task_021",
+      "status": "error",
+      "error": "Function 'ЗаполнитьТабличнуюЧастьЗаказаЦенами' not found in module_text"
+    },
+    {
+      "task_id": "task_022",
+      "status": "success",
+      "error": ""
+    },
+    {
+      "task_id": "task_023",
+      "status": "success",
+      "error": ""
+    },
+    {
+      "task_id": "task_024",
+      "status": "compiled",
+      "error": ""
+    },
+    {
+      "task_id": "task_025",
+      "status": "success",
+      "error": ""
+    },
+    {
+      "task_id": "task_026",
+      "status": "success",
+      "error": ""
+    },
+    {
+      "task_id": "task_027",
+      "status": "compiled",
+      "error": ""
+    },
+    {
+      "task_id": "task_028",
+      "status": "success",
+      "error": ""
+    },
+    {
+      "task_id": "task_029",
+      "status": "error",
+      "error": "Ошибка при вызове метода контекста (Создать): Ошибка инициализации модуля: ВнешняяОбработка.ДобавитьХарактиристикуТовара.МодульОбъекта"
+    },
+    {
+      "task_id": "task_030",
+      "status": "compiled",
+      "error": ""
+    }
+  ]
+}
